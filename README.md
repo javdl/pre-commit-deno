@@ -7,6 +7,7 @@
 Add this to your `.pre-commit-config.yaml`
 
 ```yaml
+repos:
 -   repo: https://github.com/javdl/pre-commit-deno
     rev: 0.1.0  # Use the ref you want to point at
     hooks:
